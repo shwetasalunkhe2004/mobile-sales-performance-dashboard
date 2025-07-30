@@ -22,7 +22,7 @@ The dataset includes:
 ## 📈 Dashboard Overview
 
 ### 🖼️ Main Sales Dashboard
-![Main Dashboard](dashboardimg1.png=https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/dsahboardimg1.png)
+![Main Dashboard](https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/dsahboardimg1.png)
 
 **Insights:**
 - Total Sales: ₹202M | Quantity: 5K Units | Transactions: 1K
@@ -34,7 +34,7 @@ The dataset includes:
 ---
 
 ### 📅 Month-To-Date & Quarter-To-Date (MTD/QTD)
-![MTD & QTD](MTD&QTDimg.png=https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/MTD%26QTDimg.png)
+![MTD & QTD](https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/MTD%26QTDimg.png)
 
 **Insights:**
 - Tracks Month-to-Date and Quarter-to-Date performance
@@ -44,7 +44,7 @@ The dataset includes:
 ---
 
 ### 📊 Same Period Last Year Comparison
-![Same Period Last Year](SamePeriodLastYearimg.png=https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/SamePeriodLastYearimg.png)
+![Same Period Last Year](=https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/SamePeriodLastYearimg.png)
 
 **Insights:**
 - Year-over-year and quarter-over-quarter comparisons
@@ -85,6 +85,3 @@ The dataset includes:
 
 ---
 
-## 📬 Contact
-
-For any questions or feedback, feel free to reach out via [Your Email] or open an issue in this repo.
