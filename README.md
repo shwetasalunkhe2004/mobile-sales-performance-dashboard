@@ -44,7 +44,7 @@ The dataset includes:
 ---
 
 ### 📊 Same Period Last Year Comparison
-![Same Period Last Year](=https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/SamePeriodLastYearimg.png)
+![Same Period Last Year](https://github.com/shwetasalunkhe2004/mobile-sales-performance-dashboard/blob/main/SamePeriodLastYearimg.png)
 
 **Insights:**
 - Year-over-year and quarter-over-quarter comparisons
